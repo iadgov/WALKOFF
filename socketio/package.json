@@ -22,7 +22,7 @@
     "express": "^4.17.1",
     "nodemon": "^1.19.3",
     "reflect-metadata": "^0.1.13",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.4.0",
     "typescript": "^3.6.3"
   }
 }
